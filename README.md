@@ -51,11 +51,11 @@
 | Company                         | Role                     | Employment Type     | Month/Years               |
 | :---                            | :----:                   | :---:               | :---:                     |  
 | SpeedPay                        | DevOps Engineer          | Contract            | Jan 2023 - Present        |
-| Andela                          | Senior Software Engineer | Contract            | Jan 2023 - Present        |
+| Andela                          | Senior Software Engineer | Talent Network      | Jan 2023 - Present        |
 | Sendme                          | CTO and DevOps Engineer  | Full Time           | Aug 2021 - Jan 2023       |
-| Fyyne                           | Software Engineer        | Contract            | July 2021 - Feb 2022      |
 | Lawrence Price                  | DevOps Engineer          | Full Time           | October 2020 - July 2021  |
 | Digifigs                        | Software Engineer        | Full Time           | August 2019 - Sept 2020   |
+| BCT AI Labs                     | Software Engineer        | Full Time           | Sept 2018 - April 2019   |
 
 ---
 
