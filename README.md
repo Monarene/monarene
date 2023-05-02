@@ -72,7 +72,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Dynamic Volume Provisioning in Kubernetes with AWS and Terraform](https://dev.to/monarene/dynamic-volume-provisioning-in-kubernetes-with-aws-and-terraform-3m6h)
 - [Designing a Production grade load balancer service with Terraform](https://dev.to/monarene/designing-a-production-grade-elastic-load-balancer-service-with-terraform-44n4)
-- [Deploying a Terraform Remote State Backend with AWS S3 and DynamoDB](hhttps://hackernoon.com/deploying-a-terraform-remote-state-backend-with-aws-s3-and-dynamodb)
+- [Deploying a Terraform Remote State Backend with AWS S3 and DynamoDB](https://hackernoon.com/deploying-a-terraform-remote-state-backend-with-aws-s3-and-dynamodb)
 - [Containers; Deploy with Ease](https://medium.com/@mekuleyimichael/containers-deploy-with-ease-6395a0c410c9) 
 
 ---
