@@ -58,6 +58,16 @@
 
 ---
 
+### 📕 Certifications
+
+<!-- BLOG-POST-LIST:START -->
+- [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/70e008c4-8630-4b53-bbf9-c444de7cd6ef/public_url)
+- [Udacity Cloud DevOps Nanodegree](https://graduation.udacity.com/confirm/FLLUGMDT)
+- [Udacity Cloud Developer Nanodgree](https://graduation.udacity.com/confirm/AQ9KZG9T)
+- [Udacity Data Engineering Nanodgree](https://graduation.udacity.com/confirm/3JDEE36T) 
+
+---
+
 ## 🔭 I’m currently working on
 - Building Cloud Native application with Kubernetes and Docker
 
@@ -77,8 +87,6 @@
 
 ---
 
-
----
 
 ## To create your own version of this wonderful feature by Github, follow this simple steps:
 
