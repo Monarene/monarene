@@ -18,7 +18,7 @@
 
 ## 💬 Details
 - Name: Michael Mekuleyi
-- 😄 Pronouns: He/Him :man:
+- Pronouns: He/Him :man:
 <!-- - Presentations -->
 - Role: DevOps Engineer
 - Hobbies: Cooking and Working out
