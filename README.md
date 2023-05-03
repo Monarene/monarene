@@ -6,7 +6,9 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@monnarene-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/monnarene)](https://twitter.com/monnarene) [![Linkedin Badge](https://img.shields.io/badge/-MichaelMekuleyi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/monarene/) [![Gmail Badge](https://img.shields.io/badge/-mekuleyimichael@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mekuleyimichael@gmail.com)](mailto:mekuleyimichael@gmail.com)
 
-- Hello There, I am Michael Mekuleyi. Software Engineer 🧑🏾‍💻 with over 5 years combined software experience and 4 years Experience on the Cloud. I am continously building on OpenSource tools with an Agile Mindset. I am roficient in Docker, Terraform, Kubernetes, Ansible, AWS and Google Cloud Platform. 
+- Hello There, I am Michael Mekuleyi. Software Engineer 🧑🏾‍💻 with over 5 years combined software experience and 4 years Experience on the Cloud. I am continously building on OpenSource tools with an Agile Mindset. I am Rroficient in Docker, Terraform, Kubernetes, Ansible, AWS and Google Cloud Platform. 
+
+- I am also very passionate about the community, and I occasionally give talks on Linux, Kubernetes and Deployments
 
 ---
 
@@ -27,7 +29,6 @@
 - Google Cloud Champion (Nigeria) 
 - Explore ML Crowd-Source Facilitator (Nigeria)
 - Ex Google Developer Student Club Lead (University Of Ibadan)
-- Ex HackerEarth Campus Ambassador (University Of Ibadan)
 
 ---
 
