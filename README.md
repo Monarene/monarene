@@ -33,6 +33,7 @@
 ---
 
 ## 📣📣 Talks and Events
+- [Local Host '23 - Advanced Dyanmic Volume Provisioning in Kubernetes with AWS and Terraform](https://docs.google.com/presentation/d/1N1lEtOSS3ohQh55iP8Mo6ljO-FFmzUFYtU2S_GrO68o/edit?usp=sharing) 
 - [Cloud Study Jam Germany '23 - Deploying Fully Managed Containers with Google Cloud Run](https://docs.google.com/presentation/d/1ojg8ENoAPaSEb2EBrwPr_nH317O9dIoBrvwp9wVGXXg/edit?usp=sharing) 
 - [HardeBusiness School '23 - Transitioning into Tech](https://docs.google.com/presentation/d/1JrAt7t3s-lWyf4FVE4msAPlqfpL-YhEwF3jBy21S1Ic/edit?usp=sharing)
 - [DevFest Ibadan '22 - Deploying Resilient systems with Kubernetes](https://docs.google.com/presentation/d/1cxsdARaahp1nTgGs75hNEtTECUplv2F5iFa4rG_ArBM/edit?usp=sharing)
@@ -44,7 +45,16 @@
 - [Tensorflow Study Jam '21 - Deploying Tensorflow Machine Learning Models](https://docs.google.com/presentation/d/1tNQCxCMPcTJNKRctCGckMD6cPHQ8VHStB8xyeeCDJWQ/edit?usp=sharing)
 - [Tensorflow DevSummit '19 - Building Robust Ml models in Keras](https://docs.google.com/presentation/d/1xmn8AVcC574bDKGSN2pGavs2x-tHu67IB8X8Apf3-m0/edit?usp=sharing)
 
+---
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Utilizing Google Cloud Storage as a remote backend for Terraform](https://dev.to/monarene/utilizing-google-cloud-storage-as-a-remote-backend-for-terraform-3ijk)
+- [Dynamic Volume Provisioning in Kubernetes with AWS and Terraform](https://dev.to/monarene/dynamic-volume-provisioning-in-kubernetes-with-aws-and-terraform-3m6h)
+- [Designing a Production grade load balancer service with Terraform](https://dev.to/monarene/designing-a-production-grade-elastic-load-balancer-service-with-terraform-44n4)
+- [Deploying a Terraform Remote State Backend with AWS S3 and DynamoDB](https://hackernoon.com/deploying-a-terraform-remote-state-backend-with-aws-s3-and-dynamodb)
+- [Containers; Deploy with Ease](https://medium.com/@mekuleyimichael/containers-deploy-with-ease-6395a0c410c9) 
 
 ---
 
@@ -62,7 +72,6 @@
 
 ### 📕 Certifications
 
-<!-- BLOG-POST-LIST:START -->
 - [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/70e008c4-8630-4b53-bbf9-c444de7cd6ef/public_url)
 - [Udacity Cloud DevOps Nanodegree](https://graduation.udacity.com/confirm/FLLUGMDT)
 - [Udacity Cloud Developer Nanodgree](https://graduation.udacity.com/confirm/AQ9KZG9T)
@@ -77,15 +86,7 @@
 
 ## 🌱 I’m currently learning
 - Advaanced Concepts in Reliability and Observability
----
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Dynamic Volume Provisioning in Kubernetes with AWS and Terraform](https://dev.to/monarene/dynamic-volume-provisioning-in-kubernetes-with-aws-and-terraform-3m6h)
-- [Designing a Production grade load balancer service with Terraform](https://dev.to/monarene/designing-a-production-grade-elastic-load-balancer-service-with-terraform-44n4)
-- [Deploying a Terraform Remote State Backend with AWS S3 and DynamoDB](https://hackernoon.com/deploying-a-terraform-remote-state-backend-with-aws-s3-and-dynamodb)
-- [Containers; Deploy with Ease](https://medium.com/@mekuleyimichael/containers-deploy-with-ease-6395a0c410c9) 
 
 ---
 
