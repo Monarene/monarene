@@ -50,6 +50,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Designing a Kubernetes Cluster in GCP using OSS terraform modules](https://dev.to/monarene/designing-a-kubernetes-cluster-in-gcp-using-oss-terraform-modules-1m3j)
 - [Utilizing Google Cloud Storage as a remote backend for Terraform](https://dev.to/monarene/utilizing-google-cloud-storage-as-a-remote-backend-for-terraform-3ijk)
 - [Dynamic Volume Provisioning in Kubernetes with AWS and Terraform](https://dev.to/monarene/dynamic-volume-provisioning-in-kubernetes-with-aws-and-terraform-3m6h)
 - [Designing a Production grade load balancer service with Terraform](https://dev.to/monarene/designing-a-production-grade-elastic-load-balancer-service-with-terraform-44n4)
