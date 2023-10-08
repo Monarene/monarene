@@ -20,19 +20,24 @@
 - Name: Michael Mekuleyi
 - Pronouns: He/Him :man:
 <!-- - Presentations -->
-- Role: DevOps Engineer
+- Role: DevOps Engineer/SRE
 - Hobbies: Cooking and Working out
 
 ---
 
 ## 👯 Communities
-- Google Cloud Champion (Nigeria) 
+- Google Cloud Champion (Google Kubernetes Engine) 
+- AWS Community Builder (Containers)
 - Explore ML Crowd-Source Facilitator (Nigeria)
 - Ex Google Developer Student Club Lead (University Of Ibadan)
 
 ---
 
 ## 📣📣 Talks and Events
+- [Yassir September Guild Meeting '23 - Mastering Your Contributions to DevOps Open Source Projects](https://docs.google.com/presentation/d/1k6-GCMhZ3_iaB45aKRx91qCzMVZWF1_lgO-hR7mMB4o/edit?usp=sharing)
+- [Career and Business People's Summit '23 - Leveraging Artificial Intelligence to Maximise Output](https://docs.google.com/presentation/d/1uoTkPCTJSWA5Ff9qw4VOJhjsueJP5BBJiQf8_gPM99Q/edit?usp=sharing)
+- [University of Ibadan 75th Matriculation Ceremony '23 - Integrity in the Technology Age](https://docs.google.com/presentation/d/1tJbS51byBowNH33S-E6WGJnZoHe9Cs6eE6er3knod4A/edit?usp=sharing)
+- [Kamp Kinetics '23 - Introduction to Cloud Engineering and DevOps](https://docs.google.com/presentation/d/1y3mUVcCZfZ5jpTvokZmulshZvmTVdaCkVMgq73NbtQU/edit?usp=sharing)
 - [Local Host '23 - Advanced Dyanmic Volume Provisioning in Kubernetes with AWS and Terraform](https://docs.google.com/presentation/d/1N1lEtOSS3ohQh55iP8Mo6ljO-FFmzUFYtU2S_GrO68o/edit?usp=sharing) 
 - [Cloud Study Jam Germany '23 - Deploying Fully Managed Containers with Google Cloud Run](https://docs.google.com/presentation/d/1ojg8ENoAPaSEb2EBrwPr_nH317O9dIoBrvwp9wVGXXg/edit?usp=sharing) 
 - [HardeBusiness School '23 - Transitioning into Tech](https://docs.google.com/presentation/d/1JrAt7t3s-lWyf4FVE4msAPlqfpL-YhEwF3jBy21S1Ic/edit?usp=sharing)
@@ -50,6 +55,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Taints and Tolerations in Kubernetes - A Pocket Guide](https://dev.to/monarene/taints-and-tolerations-in-kubernetes-a-pocket-guide-37jb)
+- [Kubernetes Node Affinity - A love story between Nodes and Pods](https://dev.to/monarene/kubernetes-node-affinity-a-love-story-between-nodes-and-pods-2cfg)
 - [Intentional Kubernetes Pod Scheduling - NodeSelector](https://dev.to/monarene/intentional-kubernetes-pod-scheduling-nodeselector-3p7i)
 - [Designing a Kubernetes Cluster in GCP using OSS terraform modules](https://dev.to/monarene/designing-a-kubernetes-cluster-in-gcp-using-oss-terraform-modules-1m3j)
 - [Utilizing Google Cloud Storage as a remote backend for Terraform](https://dev.to/monarene/utilizing-google-cloud-storage-as-a-remote-backend-for-terraform-3ijk)
@@ -75,6 +82,14 @@
 - [Udacity Cloud DevOps Nanodegree](https://graduation.udacity.com/confirm/FLLUGMDT)
 - [Udacity Cloud Developer Nanodgree](https://graduation.udacity.com/confirm/AQ9KZG9T)
 - [Udacity Data Engineering Nanodgree](https://graduation.udacity.com/confirm/3JDEE36T) 
+
+---
+
+### Who featured me? 🥳🫢🤩 
+- [Google Cloud on X - featured my community work in DevOps](https://x.com/GoogleCloudTech/status/1707772472555184132?s=20)
+- [DEV community - featured my article on Node Affinity](https://x.com/ThePracticalDev/status/1698615635524063464?s=20)
+- [Ibadan Techys Club - featured my talk on DevOps and Kubernetes](https://x.com/badtechys/status/1593867536466165760?s=20)
+- [KubeTools - featured my article on Intentional Pod Scheduling](https://x.com/kubetools/status/1686711111679127552?s=20)
 
 ---
 
