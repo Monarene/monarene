@@ -34,6 +34,7 @@
 ---
 
 ## 📣📣 Talks and Events
+- [TechQuest for GDSC UI '23 - An Intersection of Software Engineering and Product Development: A Success Story](https://docs.google.com/presentation/d/1wzF4OAKM2z6C8uHFBuD1Ww5HGWpMf5m71LbJUbOxoqI/edit?usp=sharing) 
 - [Yassir September Guild Meeting '23 - Mastering Your Contributions to DevOps Open Source Projects](https://docs.google.com/presentation/d/1k6-GCMhZ3_iaB45aKRx91qCzMVZWF1_lgO-hR7mMB4o/edit?usp=sharing)
 - [Career and Business People's Summit '23 - Leveraging Artificial Intelligence to Maximise Output](https://docs.google.com/presentation/d/1uoTkPCTJSWA5Ff9qw4VOJhjsueJP5BBJiQf8_gPM99Q/edit?usp=sharing)
 - [University of Ibadan 75th Matriculation Ceremony '23 - Integrity in the Technology Age](https://docs.google.com/presentation/d/1tJbS51byBowNH33S-E6WGJnZoHe9Cs6eE6er3knod4A/edit?usp=sharing)
