@@ -34,6 +34,8 @@
 ---
 
 ## 📣📣 Talks and Events
+- [Devfest Ikorodu '23 - Hardening Cluster Security with Google Kubernetes Engine](https://docs.google.com/presentation/d/14uNvK-uejuxrn0q4JYW72J0ftXYpehAXOR2_VfEEr30/edit?usp=sharing)
+- [Devfest Ogbomoso '23 - Infra-level Observability with Google Cloud Monitoring](https://docs.google.com/presentation/d/1BSeFtx54j5gDGHY6sj6KCP6E6wMEf-L7TdhsFzZxEzE/edit?usp=sharing)
 - [TechQuest for GDSC UI '23 - An Intersection of Software Engineering and Product Development: A Success Story](https://docs.google.com/presentation/d/1wzF4OAKM2z6C8uHFBuD1Ww5HGWpMf5m71LbJUbOxoqI/edit?usp=sharing) 
 - [Yassir September Guild Meeting '23 - Mastering Your Contributions to DevOps Open Source Projects](https://docs.google.com/presentation/d/1k6-GCMhZ3_iaB45aKRx91qCzMVZWF1_lgO-hR7mMB4o/edit?usp=sharing)
 - [Career and Business People's Summit '23 - Leveraging Artificial Intelligence to Maximise Output](https://docs.google.com/presentation/d/1uoTkPCTJSWA5Ff9qw4VOJhjsueJP5BBJiQf8_gPM99Q/edit?usp=sharing)
@@ -56,6 +58,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hardening Cluster Security in Google Kubernetes Engine](https://dev.to/monarene/hardening-cluster-security-in-google-kubernetes-engine-3n30)
 - [Taints and Tolerations in Kubernetes - A Pocket Guide](https://dev.to/monarene/taints-and-tolerations-in-kubernetes-a-pocket-guide-37jb)
 - [Kubernetes Node Affinity - A love story between Nodes and Pods](https://dev.to/monarene/kubernetes-node-affinity-a-love-story-between-nodes-and-pods-2cfg)
 - [Intentional Kubernetes Pod Scheduling - NodeSelector](https://dev.to/monarene/intentional-kubernetes-pod-scheduling-nodeselector-3p7i)
