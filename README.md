@@ -71,15 +71,6 @@
 
 ---
 
-## 🔭 Past Experience
-| Company                         | Role                     | Employment Type     | Month/Years               |
-| Sendme                          | CTO and DevOps Engineer  | Full Time           | Aug 2021 - Jan 2023       |
-| Lawrence Price                  | DevOps Engineer          | Full Time           | October 2020 - July 2021  |
-| Digifigs                        | Software Engineer        | Full Time           | August 2019 - Sept 2020   |
-| BCT AI Labs                     | Software Engineer        | Full Time           | Sept 2018 - April 2019    |
-
----
-
 ### 📕 Certifications
 
 - [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/70e008c4-8630-4b53-bbf9-c444de7cd6ef/public_url)
