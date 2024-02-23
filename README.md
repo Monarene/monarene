@@ -6,7 +6,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@monnarene-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/monnarene)](https://twitter.com/monnarene) [![Linkedin Badge](https://img.shields.io/badge/-MichaelMekuleyi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/monarene/) [![Gmail Badge](https://img.shields.io/badge/-mekuleyimichael@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mekuleyimichael@gmail.com)](mailto:mekuleyimichael@gmail.com)
 
-- Hello There, I am Michael Mekuleyi. Software Engineer 🧑🏾‍💻 with over 4 years combined software experience and on the Cloud. I am continously building on OpenSource tools with an Agile Mindset. I am Rroficient in Docker, Terraform, Kubernetes, Ansible, AWS and Google Cloud Platform. 
+- Hello There, I am Michael Mekuleyi. Software Engineer 🧑🏾‍💻 with over 5 years combined software experience and on the Cloud. I am continously building on OpenSource tools with an Agile Mindset. I am proficient in Docker, Terraform, Kubernetes, Ansible, AWS and Google Cloud Platform. 
 
 - I am also very passionate about the community, and I occasionally give talks on Linux, Kubernetes and Deployments
 
@@ -73,6 +73,7 @@
 
 ### 📕 Certifications
 
+- [Google Cloud Certified Professional Cloud DevOps Engineer](https://google.accredible.com/8d446064-b2a3-4271-bf8a-744bcbd3a51b)
 - [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/70e008c4-8630-4b53-bbf9-c444de7cd6ef/public_url)
 - [Udacity Cloud DevOps Nanodegree](https://graduation.udacity.com/confirm/FLLUGMDT)
 - [Udacity Cloud Developer Nanodgree](https://graduation.udacity.com/confirm/AQ9KZG9T)
