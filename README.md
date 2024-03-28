@@ -58,6 +58,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Platform Engineering is transforming the use of Modern-day Cloud Native Technologies - Yassir Blog](https://medium.com/@Yassirtech/how-platform-engineering-is-transforming-the-use-of-modern-day-cloud-native-technologies-c55e5060c4b4) 
 - [Hardening Cluster Security in Google Kubernetes Engine](https://dev.to/monarene/hardening-cluster-security-in-google-kubernetes-engine-3n30)
 - [Taints and Tolerations in Kubernetes - A Pocket Guide](https://dev.to/monarene/taints-and-tolerations-in-kubernetes-a-pocket-guide-37jb)
 - [Kubernetes Node Affinity - A love story between Nodes and Pods](https://dev.to/monarene/kubernetes-node-affinity-a-love-story-between-nodes-and-pods-2cfg)
