@@ -2,7 +2,7 @@
 
 <h2> Hello Awesome human! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src="https://raw.githubusercontent.com/monarene/monarene/master/fineBoy.jpeg" width='200"'>
+<img align='right' src="https://raw.githubusercontent.com/monarene/monarene/master/chef.png" width='200"'>
 
 [![Twitter Badge](https://img.shields.io/badge/-@monnarene-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/monnarene)](https://twitter.com/monnarene) [![Linkedin Badge](https://img.shields.io/badge/-MichaelMekuleyi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/monarene/) [![Gmail Badge](https://img.shields.io/badge/-mekuleyimichael@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mekuleyimichael@gmail.com)](mailto:mekuleyimichael@gmail.com)
 
@@ -26,6 +26,7 @@
 ---
 
 ## 👯 Communities
+- Google Developer Expert ( Cloud and AI - UK)
 - Google Cloud Champion (Google Kubernetes Engine) 
 - AWS Community Builder (Containers)
 - Explore ML Crowd-Source Facilitator (Nigeria)
@@ -34,6 +35,13 @@
 ---
 
 ## 📣📣 Talks and Events
+- [BuildWithAI University College London '26 - Designing Cloud Native Applications Using Gemini and Cloud Run](https://docs.google.com/presentation/d/1rrKX7FLQuv81PDu5uHWS1-faE7YsA7zXrItGra5DruU/edit?usp=sharing)
+- [APIConf Lagos'25 - Monitoring Your APIs like a superstar using the kube-prometheus stack](https://docs.google.com/presentation/d/1PR8akmhvTC_HXfS3xYBcJ4XDP4f5wg4dt6wfb-6PRig/edit?usp=sharing)
+- [Devfest Stoke-On-Trent '25 - Accelerate Building AI Applications in Cloud Run](https://docs.google.com/presentation/d/1CykgG7Vzf1_Y-Ipn8gxgHTEaCSGpfWldg9fivPm1kcY/edit?usp=sharing)
+- [Devfest London '24 - Accelerate Building AI Applications in Cloud Run](https://docs.google.com/presentation/d/19KNaHdVEdlDjrJ1OliKJeP1lybVhtlT37RSWYdINO_c/edit?usp=sharing)
+- [GDG Birmingham IO Extended '24 - Build Generative  AI agents with Vertex AI builder and Flutter](https://docs.google.com/presentation/d/1VdEcA5bjB3x9xntibNibnHCqu8hf-dk2PF7CFZ9dfEk/edit?usp=sharing)
+- [Google Cloud Lagos '24 - Enhancing existing applications using Gemini Code Assist](https://docs.google.com/presentation/d/1wtIbLtCSSnzc2sFPb3BsFaIVjdFk3rO0sCKBvM7zesk/edit?usp=sharing)
+- [Google Cloud Lagos '24 - The Visual Effect - Becoming a better Engineer](https://docs.google.com/presentation/d/1NHDT8LISRszyrbeb2slptPAMKXw9DFgbOwQhwQFdOnA/edit?usp=sharing)
 - [Devfest Ikorodu '23 - Hardening Cluster Security with Google Kubernetes Engine](https://docs.google.com/presentation/d/14uNvK-uejuxrn0q4JYW72J0ftXYpehAXOR2_VfEEr30/edit?usp=sharing)
 - [Devfest Ogbomoso '23 - Infra-level Observability with Google Cloud Monitoring](https://docs.google.com/presentation/d/1BSeFtx54j5gDGHY6sj6KCP6E6wMEf-L7TdhsFzZxEzE/edit?usp=sharing)
 - [TechQuest for GDSC UI '23 - An Intersection of Software Engineering and Product Development: A Success Story](https://docs.google.com/presentation/d/1wzF4OAKM2z6C8uHFBuD1Ww5HGWpMf5m71LbJUbOxoqI/edit?usp=sharing) 
@@ -58,6 +66,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to pass the CKA Exam on the first try [GUARANTEED]](https://dev.to/monarene/how-to-pass-the-cka-exam-on-the-first-try-guaranteed-44jf)
+- [How to Score 93% in the Prometheus Certified Associate Exam](https://dev.to/monarene/how-to-score-93-in-the-prometheus-certified-associate-exam-1g07)
+- [Designing a fault-tolerant etcd cluster on AWS](https://dev.to/monarene/designing-a-fault-tolerant-etcd-cluster-1da7)
+- [Inside the AWS Kubernetes Control Plane](https://dev.to/monarene/inside-the-kubernetes-control-plane-28ie)
 - [How Platform Engineering is transforming the use of Modern-day Cloud Native Technologies - Yassir Blog](https://medium.com/@Yassirtech/how-platform-engineering-is-transforming-the-use-of-modern-day-cloud-native-technologies-c55e5060c4b4) 
 - [Hardening Cluster Security in Google Kubernetes Engine](https://dev.to/monarene/hardening-cluster-security-in-google-kubernetes-engine-3n30)
 - [Taints and Tolerations in Kubernetes - A Pocket Guide](https://dev.to/monarene/taints-and-tolerations-in-kubernetes-a-pocket-guide-37jb)
@@ -73,7 +85,11 @@
 ---
 
 ### 📕 Certifications
-
+- [Certified Kubernetes Administrator - CKA](https://www.credly.com/badges/ca42d826-dfc8-4bd9-8b95-d3853d218fa3/public_url)
+- [Certified Kubernetes Application Developer - CKAD](https://www.credly.com/badges/9255a57f-f6d5-4129-8196-c14bbaa0a92d)
+- [Kubernetes Cloud Security Associate - KCSA ](https://www.credly.com/badges/545576ea-4c30-4acf-8136-980559200968/public_url)
+- [Kubernetes Cloud Native Associate - KCNA ](https://www.credly.com/badges/bdf2b4f9-aa2f-45f8-938c-ebe75f6eafba/public_url)
+- [Prometheus Certified Associate - PCA](https://www.credly.com/badges/4d4274ef-b987-4546-98e1-5a1be46b4754/public_url)
 - [Google Cloud Certified Professional Cloud DevOps Engineer](https://google.accredible.com/8d446064-b2a3-4271-bf8a-744bcbd3a51b)
 - [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/70e008c4-8630-4b53-bbf9-c444de7cd6ef/public_url)
 - [Udacity Cloud DevOps Nanodegree](https://graduation.udacity.com/confirm/FLLUGMDT)
